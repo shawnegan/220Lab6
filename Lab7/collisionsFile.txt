@@ -1,0 +1,19 @@
+hash 1 and collision 1:
+
+	7,818 original collisions
+	99,401 post collisions
+
+hash 1 and collision 2:
+
+	7,826 original collisions
+	36,480 post collisions
+
+hash 2 and collision 1:
+
+	8,046 original collisions
+	5,525,056 post collisions
+
+hash 2 and collision 2:
+
+	8,016 original collisions
+	177,297 post collisions
